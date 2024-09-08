@@ -52,5 +52,5 @@ This script is designed to automate login attempts for Facebook using Selenium W
 
 ## Disclaimer
 
-This script is intended for educational purposes only. Use it responsibly and ensure you have permission to automate login processes on websites. Unauthorized use of this script may violate terms of service of the websites being tested.
+This script is intended for educational purposes only. Use it at your own risk, the author is in no way responsible for your actions.
 
